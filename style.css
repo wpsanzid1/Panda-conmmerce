@@ -1,0 +1,21 @@
+.subscribe-area{
+    height: 300px;
+}
+.slider-area{
+    margin-top: 10px;
+}
+.slider-area .bg-slide{
+    background-color: #fceae8;
+}
+.btn-buy{
+    background: #ff3c89 !important;
+    color: white !important;
+}
+.slider-area .mt-5{
+    
+        margin-top: 6rem!important;
+} 
+.search .form-control {
+    padding: .375rem 7.75rem;
+    
+}
